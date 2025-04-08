@@ -1,2 +1,1 @@
-# stepik
-for example
+Мой первый репозиторий
